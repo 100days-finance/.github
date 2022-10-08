@@ -1,6 +1,6 @@
 # 100 Days Finance v1
 
-https://astro-dapp.vercel.app/
+https://100days-finance.vercel.app/
 
 ## * Updated into v2
 
